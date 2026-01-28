@@ -121,8 +121,7 @@ scoop install git
 **第 4 步：安装 OpenCode**
 
 ```powershell
-scoop bucket add extras
-scoop install extras/opencode
+scoop install main/opencode
 ```
 :::
 
